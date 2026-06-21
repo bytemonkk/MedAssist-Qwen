@@ -1,1 +1,1 @@
-# Nova-Medisage
+# MedAssist-Qwen
