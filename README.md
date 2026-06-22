@@ -1,1 +1,1 @@
-# MedAssist-Qwen
+# MedAssist-Qwen2.5
