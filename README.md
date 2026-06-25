@@ -125,3 +125,22 @@ chest tightness, persistent coughing, and fatigue.
 * 🔹 Quantization for Mobile and Embedded Devices
 
 ---
+
+---
+
+# Why Qwen2.5 + Unsloth?
+
+Fine-tuning Large Language Models often requires powerful GPUs and significant memory resources, making domain-specific adaptation difficult on consumer hardware.
+
+This project demonstrates that **Qwen2.5-7B-Instruct**, combined with **Unsloth**, can be fine-tuned efficiently for Medical Question Answering while reducing GPU memory usage and maintaining high-quality, context-aware responses.
+
+### Highlights
+
+* Memory-efficient fine-tuning
+* Faster training with Unsloth
+* LoRA-based parameter-efficient adaptation
+* Lower GPU memory requirements
+* Accurate medical question answering
+* Ready for real-world deployment
+
+This repository showcases an efficient workflow for adapting Qwen2.5-7B-Instruct to the medical domain using Unsloth, enabling faster training, lower memory consumption, and reliable Medical Question Answering on consumer-grade GPUs.
