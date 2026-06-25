@@ -8,6 +8,10 @@
 
 <h1 align="center">🩺 Unsloth-MediQwen</h1>
 
+<p align="center">
+  <b>Less Memory. More Intelligence.</b>
+</p>
+
 <h3 align="center">
 Fine-Tuning Qwen2.5-7B-Instruct for Medical Question Answering using Unsloth
 </h3>
