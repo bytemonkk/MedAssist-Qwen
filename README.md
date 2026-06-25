@@ -1,4 +1,4 @@
-# MedAssist-Qwen
+# MedAssist-Qwen -> Less Memory. More Intelligence.
 
 ### Efficient Fine-Tuning of Qwen2.5-7B-Instruct for Medical Question Answering using Unsloth
 
@@ -6,11 +6,8 @@
   <img src="assets/qwen_interface.png" width="100%">
 </p>
 
-<h1 align="center">🩺 Unsloth-MediQwen</h1>
+<h1 align="center"> MedAssist-Qwen</h1>
 
-<p align="center">
-  <b>Less Memory. More Intelligence.</b>
-</p>
 
 <h3 align="center">
 Fine-Tuning Qwen2.5-7B-Instruct for Medical Question Answering using Unsloth
