@@ -1,5 +1,5 @@
 # MedAssist-Qwen2.5
 small brains challenging big brains dobby.!
 <p align="center">
-  <img src="assets/MedicalQA_Architecture.png" width="100%">
+  <img src="C:\Users\MANOJ KUMAR SUNKARA\Documents\GitHub\MedAssist-Qwen\assets\qwen_interface.png" width="100%">
 </p>
